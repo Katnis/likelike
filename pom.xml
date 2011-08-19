@@ -122,7 +122,6 @@
 	<modules>
 		<module>core</module>
 		<module>examples</module>
-		<module>webapp</module>
 		<module>distribution</module>
 	</modules>
 </project>
